@@ -1,0 +1,1 @@
+This project focuses on mastering SQL concepts by analyzing a simulated pizza sales dataset. It includes real-world business questions and solutions using SQL queries, such as revenue calculation, customer behavior analysis, and product performance ranking
